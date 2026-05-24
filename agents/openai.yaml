@@ -1,0 +1,6 @@
+interface:
+  display_name: "Music Skill 2"
+  short_description: "生成火爆款 Suno 歌曲 suno.md"
+  default_prompt: "使用 $music-skill-2 把我的主题写成一首适合短视频传播的火爆款 Suno 歌曲，只输出 suno.md。"
+policy:
+  allow_implicit_invocation: true
