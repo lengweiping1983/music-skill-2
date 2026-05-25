@@ -63,6 +63,7 @@
 - [Suno 曲风漂移修复](32-suno-genre-drift-fixes.md)：流行、工业、金属、国风、R&B、anthem 的曲风稳定模板。
 - [Suno 最终输出检查表](33-suno-final-output-checklist.md)：复制到 Suno 前的最终字段和纯净度检查。
 - [Suno v5.5 爆款编曲与写歌 Playbook](34-suno-v55-viral-arrangement-playbook.md)：v5.5 个性化功能边界、爆款编曲、旋律 Hook、中文画面和黄金片段。
+- [平台爆款神曲 Playbook](35-platform-shenqu-playbook.md)：神曲、土嗨、全民二创、舞蹈挑战和短视频卡点。
 - [Suno 生成最佳实践 100篇资料清单](suno-best-practice-source-bank-100.md)：来源库，只用于核查资料体系。
 - [Suno v5.5 爆款编曲与写歌 50篇来源库](suno-v55-best-practice-source-bank-50.md)：来源库，只用于核查资料体系。
 - [中文歌词与结构规范](chinese-lyric-structure.md)：押韵、行长、具体画面、结构呼吸和中文发音。

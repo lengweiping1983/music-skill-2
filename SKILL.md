@@ -26,6 +26,7 @@ Reference 分层：
 - `28-33`：Suno 生成最佳实践。
 - `suno-v55-execution.md`、`chinese-lyric-structure.md`、`vocal-and-genre-execution.md`：基础执行规范。
 - `34-suno-v55-viral-arrangement-playbook.md`：v5.5 爆款编曲、抓耳旋律、中文歌词、画面感和短视频黄金片段执行规则。
+- `35-platform-shenqu-playbook.md`：平台爆款神曲、土嗨、全民二创、舞蹈挑战和短视频卡点执行规则。
 - `source-bank-50.md`、`good-music-source-bank-30.md`、`suno-best-practice-source-bank-100.md`、`suno-v55-best-practice-source-bank-50.md`：来源库，只在需要核查资料体系时读取；日常生成优先读提炼后的分项。
 
 基础执行参考：
@@ -58,6 +59,7 @@ Reference 分层：
 - 用户强调画面感、镜头感：读 `20-visual-imagery.md`。
 - 用户强调意境、余韵、高级感：读 `21-artistic-mood-yijing.md` 和 `27-originality-and-aftertaste.md`。
 - 用户强调和声、结构、律动、演唱、制作审美：读 `22-harmony-and-chord-color.md`、`23-structure-and-breathing.md`、`24-groove-and-prosody.md`、`25-vocal-performance-emotion.md`、`26-arrangement-and-production-taste.md`。
+- 用户强调神曲、土嗨、全民二创、舞蹈挑战、短视频卡点：读 `35-platform-shenqu-playbook.md`。
 
 ## 主流程
 
@@ -65,9 +67,10 @@ Reference 分层：
 2. 定位爆点：用一句话写清这首歌最适合别人拍什么视频，以及最想让听众记住哪一句。
 3. 内部生成三套 Hook 草图：每套包含 Hook 首句、声音指纹、小怪点、适配场景。只在内部比较，不把草图输出到 `suno.md`。
 4. 设计编曲爆点：先定节奏引擎、2-3 个核心声音武器、drop/停顿/chant/标题句卡点，再写完整歌词。
-5. 合成最佳方案：选择最顺口、最能卡点、最有画面、最容易二创的一套，吸收另外两套的优点。
-6. 写入 `suno.md`：只写固定字段和 Suno 可执行内容。
-7. 自检并修正：检查前 3 秒、前 8 秒、15 秒爆点、黄金片段、Hook、歌词行长、编曲记忆点、Exclude 冲突和 Suno 输入纯净度。
+5. 若用户要神曲，先定可模仿动作、口头禅 Hook、Post-Chorus 问答和 15 秒卡点段。
+6. 合成最佳方案：选择最顺口、最能卡点、最有画面、最容易二创的一套，吸收另外两套的优点。
+7. 写入 `suno.md`：只写固定字段和 Suno 可执行内容。
+8. 自检并修正：检查前 3 秒、前 8 秒、15 秒爆点、黄金片段、Hook、歌词行长、编曲记忆点、Exclude 冲突和 Suno 输入纯净度。
 
 ## `suno.md` 固定格式
 
