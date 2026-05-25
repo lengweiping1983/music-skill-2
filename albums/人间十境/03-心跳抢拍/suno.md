@@ -2,7 +2,7 @@
 心跳抢拍
 
 ### Style of Music
-Chinese viral dance pop shenqu, 甜土电音神曲, bright playful female lead with group chant, four-on-the-floor kick and clap engine, dance-countable beat, hand-motion dance hook, clear stop points, UGC-friendly chant, quirky vocal tag, off-beat drop, phone-speaker chant clarity, micro-repeated title hook, call-and-response post-chorus, rubber bass bounce and whistle stab, 132 BPM, major chorus lift, tight low-end separation, one weird sound signature, half-line loop outro, drop after title phrase.
+Chinese viral dance pop shenqu, 甜土电音神曲, bright playful female lead with group chant, four-on-the-floor kick and clap engine, dance-countable beat, hand-motion dance hook, clear stop points, UGC-friendly chant, quirky vocal tag, off-beat drop, phone-speaker chant clarity, micro-repeated title hook, call-and-response post-chorus, rubber bass bounce and whistle stab, 132 BPM, major chorus lift, tight low-end separation, one weird sound signature, cartoon UI blip, half-line loop outro, drop after title phrase.
 
 ### Vocal Gender
 Group
@@ -20,12 +20,12 @@ v5.5
 [Intro | sound fingerprint | 0-3s]
 (女声贴脸, whistle stab, clap clap, quirky vocal tag, sudden stop)
 欸
-哒滴哒
+咚咔滴
 
 [Hook Preview | 3-8s]
 心跳抢拍
 抢拍 抢拍
-哒滴哒
+咚咔滴
 
 [Verse 1 | visual scene]
 电梯门刚开
@@ -64,7 +64,7 @@ v5.5
 谁心动
 站出来
 
-哒滴哒
+咚咔滴
 抢半拍
 心跳抢拍
 再来一拍
@@ -120,8 +120,8 @@ v5.5
 
 心跳抢拍
 抢拍 抢拍
-我的小心思
-自己跳出来
+大脑未响应
+心先跳出来
 
 心跳抢拍
 抢拍 抢拍
@@ -132,7 +132,7 @@ v5.5
 (只留clap和whistle stab, quirky vocal tag, 半句残响)
 心跳抢拍
 抢拍
-哒滴
+咚咔
 
 ### Exclude
 long intro, buried vocals, muddy bass, weak hook, slow ballad, excessive reverb, cluttered arrangement, generic lyrics
