@@ -17,6 +17,8 @@
 - 高级神曲需要一个独特声音 Logo：不要只用 `啦啦啦`、`oh yeah`、普通甜妹拟声；优先短、怪、可模仿、像鼓点或 UI 音效的 3 音节标签。
 - Final Chorus 可以给一次二刷等待点：保留主 Hook，再加入一句弹幕感/meme 感短句，不要提前稀释前两次副歌。
 - 最后 1-2 秒可回收声音 Logo，但只唱半句，让用户脑内补完并自然接回开头。
+- 系统型神曲可以把情绪做成 UI 世界观：开麦、上线、加载中、系统播报、金币反馈、故障提示等要围绕同一情绪功能。
+- Final Chorus 前可插入 1 个极短失控模因点，例如系统错误、过载、幸运值异常；必须一拍内完成，然后立刻回到主 Hook。
 
 ## 反模板规则
 
@@ -26,13 +28,15 @@
 - 土甜可以，但要有一个不廉价的生活细节：电梯、奶茶、鞋尖、路灯、外套、门牌等。
 - 不要把“邪门记忆点”堆成纯搞笑；怪声、电话音、广播音、童声等只能选 1 个主记忆机制。
 - 不要把 Final Chorus 的 meme 句提前放进所有副歌；神曲要有重复，也要有一次等待回报。
+- 不要连续堆多个系统口号；AI 播报、系统错误、幸运值、BUFF、满格等只能选 1-2 个核心机制。
+- 系统提示不能抢标题 Hook；只能放在 Bridge、Pre-Final Glitch 或 Outro 尾巴，不能塞满 Intro 和 Chorus。
 
 ## 可执行 Suno 写法
 
 `Style of Music`：
 
 ```text
-Chinese viral dance pop shenqu, dance-countable beat, micro-repeated title hook, crowd chant hook, call-and-response post-chorus, one weird sound signature, cartoon UI blip, phone-speaker clear vocal, half-line loop outro
+Chinese viral dance pop shenqu, dance-countable beat, micro-repeated title hook, crowd chant hook, call-and-response post-chorus, one weird sound signature, cartoon UI blip, AI voice notification, system error voice tag, phone-speaker clear vocal, half-line loop outro
 ```
 
 `Lyrics`：
@@ -55,6 +59,11 @@ Chinese viral dance pop shenqu, dance-countable beat, micro-repeated title hook,
 [Final Chorus | meme lift]
 大脑未响应
 心先跳出来
+
+[Pre-Final Glitch | meme notification]
+(AI voice notification, coin glitch pop, one-beat silence)
+系统错误
+好运过载
 
 [Outro | loop-friendly tail]
 心跳抢拍
@@ -80,3 +89,5 @@ long intro, buried vocals, muddy bass, weak hook, slow ballad, excessive reverb,
 - 是否有一个具体动作或物件，避免空口号？
 - Final Chorus 是否有一次变化句，但没有破坏主 Hook？
 - Outro 是否半句断尾，能让听众脑内补完？
+- 若使用系统型神曲，系统提示是否围绕同一世界观，而不是随机堆科技词？
+- Final 前是否只有 1 个短失控模因点，并且马上回到主 Hook？
