@@ -2,7 +2,7 @@
 风替我开口
 
 ### Style of Music
-Chinese viral UK garage pop ballad, 雨夜释怀男声, close warm male vocal, whispered intimate verse, syncopated 2-step garage drums, micro-repeated title hook, second hook phrase, half-line outro loop, muted piano motif and airy guitar pluck, 104 BPM, minor verse to major chorus lift, pre-chorus interval lift, title phrase on melodic peak, phone-speaker clear vocal, tight low-end separation, stripped verse to full emotional chorus, bridge stop-down, final chorus ad-lib lift, drop after title phrase.
+Chinese viral UK garage pop ballad, 雨夜释怀男声, close warm male vocal, whispered intimate verse, sparse verse, restrained reverb, close dry vocal, syncopated 2-step garage drums, micro-repeated title hook, second hook phrase, half-line outro loop, muted piano motif and airy guitar pluck, 104 BPM, minor verse to major chorus lift, pre-chorus interval lift, title phrase on melodic peak, phone-speaker clear vocal, tight low-end separation, stripped verse to full emotional chorus, bridge stop-down, final chorus ad-lib lift, drop after title phrase.
 
 ### Vocal Gender
 Male
@@ -70,8 +70,8 @@ v5.5
 
 地铁玻璃上
 我把自己认错
-你留过的围巾
-还剩半寸温
+你那条旧围巾
+还有一点温
 
 [Pre-Chorus | sharper turn]
 (人声靠前, 鼓点半拍停顿, tightened vocal lift)
@@ -112,7 +112,7 @@ v5.5
 只是学会放手
 
 风替我开口
-别让风听见我
+连沉默都生锈
 你别回头
 我放过我自己
 
