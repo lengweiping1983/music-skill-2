@@ -62,7 +62,9 @@
 - [Suno 中文歌词与人声稳定性](31-suno-lyrics-vocal-stability.md)：中文短句、咬字、人声靠前和可唱性。
 - [Suno 曲风漂移修复](32-suno-genre-drift-fixes.md)：流行、工业、金属、国风、R&B、anthem 的曲风稳定模板。
 - [Suno 最终输出检查表](33-suno-final-output-checklist.md)：复制到 Suno 前的最终字段和纯净度检查。
+- [Suno v5.5 爆款编曲与写歌 Playbook](34-suno-v55-viral-arrangement-playbook.md)：v5.5 个性化功能边界、爆款编曲、旋律 Hook、中文画面和黄金片段。
 - [Suno 生成最佳实践 100篇资料清单](suno-best-practice-source-bank-100.md)：来源库，只用于核查资料体系。
+- [Suno v5.5 爆款编曲与写歌 50篇来源库](suno-v55-best-practice-source-bank-50.md)：来源库，只用于核查资料体系。
 - [中文歌词与结构规范](chinese-lyric-structure.md)：押韵、行长、具体画面、结构呼吸和中文发音。
 - [人声与曲风执行规范](vocal-and-genre-execution.md)：人声真实感、曲风模板、金属男声保护和手机外放保护。
 
@@ -70,6 +72,6 @@
 
 - 结构：`Intro` 0-3 秒声音指纹 → `Hook Preview` 3-8 秒 → `Verse` 画面 → `Pre-Chorus` 上升 → `Chorus` 爆点 → `Post-Chorus` 二级 Hook → `Bridge` 对比 → `Final Chorus` 变体升级。
 - 歌词：主歌具体，副歌短，Hook 可重复，金句 6-12 字。
-- 制作：人声靠前，鼓点清楚，低频不糊，核心音色前置。
+- 制作：先定节奏引擎和2-3个核心声音武器；人声靠前，鼓点清楚，低频不糊，核心音色前置。
 - 风格：`Style of Music` 前半段写曲风、情绪、人声、节奏引擎、Hook 武器、手机外放清晰度。
 - 纯净：`suno.md` 不出现资料来源、Reference、评分、传播报告或解释性分析。

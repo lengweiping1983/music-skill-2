@@ -10,7 +10,16 @@
 - [Suno 中文歌词与人声稳定性](31-suno-lyrics-vocal-stability.md)
 - [Suno 曲风漂移修复](32-suno-genre-drift-fixes.md)
 - [Suno 最终输出检查表](33-suno-final-output-checklist.md)
+- [Suno v5.5 爆款编曲与写歌 Playbook](34-suno-v55-viral-arrangement-playbook.md)
 - [Suno 生成最佳实践 100篇资料清单](suno-best-practice-source-bank-100.md)
+- [Suno v5.5 爆款编曲与写歌 50篇来源库](suno-v55-best-practice-source-bank-50.md)
+
+## v5.5 执行边界
+
+- v5.5 强化表达力、Voices、Custom Models 和 My Taste，但本 Skill 默认仍以可复制的 Custom Mode 字段控制生成。
+- `Voices`、`Custom Models`、`My Taste` 只能作为用户显式提供时的偏好背景；最终 `suno.md` 不新增这些字段。
+- 有自定义模型时，Style 少堆曲风名，多写结构动作、编曲动态和 Hook；没有自定义模型时，Style 必须完整写明曲风、人声、节奏、音色和 mix 保护。
+- v5.5 仍需要前置 Hook、清楚 metatags、短句歌词、手机外放和 Exclude 正负配对。
 
 ## 固定字段
 
@@ -55,6 +64,12 @@
 
 ```text
 Chinese viral pop rock, 燃感都市逆袭, clean smooth male vocal, tight stomping drums, gang chant hook, punchy guitar riff, phone-speaker clear vocal, 128 BPM, minor verse to major chorus lift, upfront vocal mix.
+```
+
+v5.5 爆款写法优先加入编曲动态：
+
+```text
+stripped verse to full chant chorus, drop after title phrase, two core sound weapons, upfront vocal mix
 ```
 
 ## Metatags

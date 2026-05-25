@@ -2,7 +2,7 @@
 
 ## 资料范围
 
-本项使用 [good-music-source-bank-30.md](good-music-source-bank-30.md) 的30篇来源，重点参考旋律写作、旋律轮廓、lyric-melody relationship、音乐期待和情绪研究。
+本项使用 [good-music-source-bank-30.md](good-music-source-bank-30.md) 的30篇来源，并吸收 [Suno v5.5 爆款编曲与写歌 50篇来源库](suno-v55-best-practice-source-bank-50.md) 的旋律与 Hook 资料，重点参考旋律写作、旋律轮廓、lyric-melody relationship、音乐期待和情绪研究。
 
 ## 共识结论
 
@@ -11,6 +11,7 @@
 - 旋律高点应服务歌词关键词，不要随机飙高音。
 - Verse 旋律更叙事，Chorus 旋律更开阔、更稳定、更容易记。
 - 好听来自“熟悉感 + 轻微期待差”：听众能跟上，又有一点惊喜。
+- Suno v5.5 中旋律提示要具体到动作：级进、微重复、标题句高点、chorus lift，而不是只写“好听”。
 
 ## 冲突观点
 
@@ -32,6 +33,12 @@ singable melodic topline, smooth stepwise melody, clear chorus lift, memorable h
 (旋律先级进上行, 标题句到最高点)
 ```
 
+v5.5 强化写法：
+
+```text
+3-6 note hook motif, AA chorus opening, title phrase on melodic peak, one small rhythmic surprise
+```
+
 ## 反例
 
 - 每句都大跳，听众难跟唱。
@@ -44,4 +51,4 @@ singable melodic topline, smooth stepwise melody, clear chorus lift, memorable h
 - 旋律高点是否落在关键词？
 - Chorus 是否比 Verse 更开阔？
 - 是否有一个小惊喜而不是全程平直？
-
+- 是否把“好听”翻译成了可执行的旋律动作？
