@@ -1,29 +1,22 @@
 ## Title
-
 月亮借我一秒
 
 ### Style of Music
-
-Chinese viral guofeng electro pop, 都市月夜许愿, close airy female vocal, whispered intimate verse, soft 2-step drum groove, guzheng pluck and moonbell motif, micro-repeated title hook, second hook phrase, 112 BPM, minor verse to luminous major chorus lift, title phrase on melodic peak, phone-speaker clear vocal, tight low-end separation, sparse verse to glowing chant chorus, bridge stop-down, half-line loop outro, drop after title phrase.
+Chinese viral guofeng electro pop, 都市月夜许愿, close airy female vocal, whispered intimate verse, soft 2-step drum groove, guzheng pluck and moonbell motif, minimal guofeng ornamentation, no theatrical opera vocal, micro-repeated title hook, second hook phrase, 112 BPM, minor verse to luminous major chorus lift, title phrase on melodic peak, phone-speaker clear vocal, tight low-end separation, sparse verse to glowing chant chorus, vulnerable bridge, bridge stop-down, half-line loop outro, drop after title phrase.
 
 ### Vocal Gender
-
 Female
 
 ### Weirdness
-
 44
 
 ### Style Influence
-
 58
 
 ### Model
-
 v5.5
 
 ### Lyrics
-
 [Intro | sound fingerprint | 0-3s]
 (近距离女声气口, moonbell一声, guzheng pluck, sudden stop)
 嘘
@@ -34,7 +27,7 @@ v5.5
 
 [Verse 1 | visual scene]
 天桥风很轻
-路灯像星星
+路灯一盏盏
 我把愿望握紧
 藏进袖口里
 
@@ -45,29 +38,29 @@ v5.5
 
 [Pre-Chorus | rising tension]
 (guzheng pluck上行, 2-step鼓点收紧, breath lift)
-我不说破晓
-也不问归鸟
-只把旧梦轻轻
-放过今宵
+我不等破晓
+也不敢问你了
+那句晚安停在
+输入框里
 
 [Chorus | viral hook | full mix]
 (drop on title phrase, moonbell motif, harmony doubles)
 月亮借我一秒
-把眼泪照到少
+把眼泪照轻了
 借我一秒 借我一秒
 把遗憾照成桥
 
 月亮借我一秒
 让风替我拥抱
 借我一秒 借我一秒
-我就学会微笑
+我就不哭到天亮
 
-[Post-Chorus | chant hook]
+[Post-Chorus | second hook]
 (女声轻喊, guzheng answer, clap ghost notes)
 借我一秒
-月亮别跑
+别让我想到
 借我一秒
-心就亮了
+他真的走掉
 
 [Verse 2 | deeper scene]
 车窗有雾气
@@ -76,57 +69,52 @@ v5.5
 又悄悄抹去
 
 屋檐滴着雨
-巷口亮着鱼
-我把孤单折起
-放进口袋里
+巷口灯微低
+我把那句想你
+塞回口袋里
 
 [Pre-Chorus | sharper turn]
 (人声靠前, 鼓点半拍停顿, moonbell answer)
 我不怪夜长
 也不怕天亮
-只怕愿望太轻
-飞过你窗
+只怕我太小声
+到不了你窗
 
 [Chorus | stronger variation]
 (drop stronger, airy harmony, tight drums)
 月亮借我一秒
-把眼泪照到少
+把眼泪照轻了
 借我一秒 借我一秒
 把遗憾照成桥
 
 月亮借我一秒
 让风替我拥抱
 借我一秒 借我一秒
-我把明天照好
+我就不哭到天亮
 
-[Bridge | stripped contrast]
+[Bridge | vulnerable truth]
 (抽空编曲, close vocal, moonbell alone, breath pause)
-如果有一天
-我们都忘掉
-也请把今晚
-留在月光角
+我差点喊出你
+又轻轻咽回去
+月光落在手背
+烫得像没寄的信
 
 [Pre-Final Lift | quiet wish]
 (停拍一秒, 女声轻声)
-愿望加载中
-月光已收到
+我慢慢松开
+那句没说好
 
 [Final Chorus | highest emotional point]
 (full glowing chorus, extra clap layer, title phrase最高点)
 月亮借我一秒
-把眼泪照到少
+把眼泪照轻了
 借我一秒 借我一秒
-把遗憾照成桥
+把你还给人潮
 
 月亮借我一秒
 让风替我拥抱
 借我一秒 借我一秒
-我把明天照好
-
-月亮借我一秒
-人海也会停靠
-借我一秒 借我
-天亮刚刚好
+我就慢慢睡着
 
 [Outro | loop-friendly tail]
 (只留moonbell和guzheng pluck, 女声半句残响)
@@ -134,5 +122,4 @@ v5.5
 借我
 
 ### Exclude
-
-long intro, buried vocals, muddy bass, weak hook, harsh highs, excessive reverb, cluttered arrangement, generic lyrics
+long intro, buried vocals, muddy bass, weak hook, theatrical opera vocal, over-traditional ornamentation, cluttered arrangement, generic lyrics

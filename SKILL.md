@@ -27,12 +27,15 @@ Reference 分层：
 - `suno-v55-execution.md`、`chinese-lyric-structure.md`、`vocal-and-genre-execution.md`：基础执行规范。
 - `34-suno-v55-viral-arrangement-playbook.md`：v5.5 爆款编曲、抓耳旋律、中文歌词、画面感和短视频黄金片段执行规则。
 - `35-platform-shenqu-playbook.md`：平台爆款神曲、土嗨、全民二创、舞蹈挑战和短视频卡点执行规则。
-- `source-bank-50.md`、`good-music-source-bank-30.md`、`suno-best-practice-source-bank-100.md`、`suno-v55-best-practice-source-bank-50.md`：来源库，只在需要核查资料体系时读取；日常生成优先读提炼后的分项。
+- `36-guofeng-moon-urban-healing-playbook.md`：国风电子、月亮意象、都市夜景、许愿和轻治愈爆款执行规则。
+- `37-humanized-lyrics-playbook.md`：去 AI 味、真人感歌词、自然语流、具体动作和反文案腔审稿规则。
+- `source-bank-50.md`、`good-music-source-bank-30.md`、`humanized-lyrics-source-bank-20.md`、`suno-best-practice-source-bank-100.md`、`suno-v55-best-practice-source-bank-50.md`：来源库，只在需要核查资料体系时读取；日常生成优先读提炼后的分项。
 
 基础执行参考：
 
 - 生成任何最终 `suno.md` 前必须读 `suno-v55-execution.md`。
 - 生成任何最终 `suno.md` 前必须读 `34-suno-v55-viral-arrangement-playbook.md`，先确定节奏引擎、核心声音武器、Hook 旋律和短视频爆点。
+- 生成任何最终 `suno.md` 前必须读 `37-humanized-lyrics-playbook.md`，写完歌词后做去 AI 味审稿。
 - 字段职责、slider、人声一致性：读 `28-suno-custom-mode-fields.md`。
 - metatags、段落结构、Hook Preview：读 `29-suno-metatags-structure-control.md`。
 - Style 精简、Exclude 正负配对：读 `30-suno-style-exclude-pairing.md`。
@@ -60,6 +63,7 @@ Reference 分层：
 - 用户强调意境、余韵、高级感：读 `21-artistic-mood-yijing.md` 和 `27-originality-and-aftertaste.md`。
 - 用户强调和声、结构、律动、演唱、制作审美：读 `22-harmony-and-chord-color.md`、`23-structure-and-breathing.md`、`24-groove-and-prosody.md`、`25-vocal-performance-emotion.md`、`26-arrangement-and-production-taste.md`。
 - 用户强调神曲、土嗨、全民二创、舞蹈挑战、短视频卡点：读 `35-platform-shenqu-playbook.md`。
+- 用户强调国风电子、月亮、许愿、治愈、都市夜景、轻伤感：读 `36-guofeng-moon-urban-healing-playbook.md`。
 
 ## 主流程
 
@@ -69,8 +73,9 @@ Reference 分层：
 4. 设计编曲爆点：先定节奏引擎、2-3 个核心声音武器、drop/停顿/chant/标题句卡点，再写完整歌词。
 5. 若用户要神曲，先定可模仿动作、独特声音 Logo、口头禅 Hook、meme 弹幕句、系统提示/失控模因点、Post-Chorus 问答、半句 loop 尾巴和 15 秒卡点段。
 6. 合成最佳方案：选择最顺口、最能卡点、最有画面、最容易二创的一套，吸收另外两套的优点。
-7. 写入 `suno.md`：只写固定字段和 Suno 可执行内容。
-8. 自检并修正：检查前 3 秒、前 8 秒、15 秒爆点、黄金片段、Hook、歌词行长、编曲记忆点、Exclude 冲突和 Suno 输入纯净度。
+7. 去 AI 味审稿：扫描抽象词、总结句、过度工整句、模板化治愈句、文案腔和假诗意；只替换低真人感句子，保留核心 Hook 与有效画面。
+8. 写入 `suno.md`：只写固定字段和 Suno 可执行内容。
+9. 自检并修正：检查前 3 秒、前 8 秒、15 秒爆点、黄金片段、Hook、歌词行长、真人感、编曲记忆点、Exclude 冲突和 Suno 输入纯净度。
 
 ## `suno.md` 固定格式
 
@@ -117,6 +122,7 @@ Reference 分层：
 - 主歌必须有具体时间、地点、物件或动作，不能只写抽象情绪。
 - 每个核心段落至少有一句能单独当短视频字幕的 6-12 字金句。
 - 中文歌词尽量每行 4-10 字；如果为了叙事需要略长，必须仍然适合演唱和换气。
+- 每首歌必须去 AI 味：用具体动作、物件、身体反应和没说出口的话替代空泛总结，避免模板化治愈、文案腔和 AI 式正确答案。
 
 ## 推荐结构
 
@@ -179,11 +185,14 @@ Reference 分层：
 - 15 秒内是否出现完整爆点。
 - 是否有 15-31 秒黄金片段。
 - Hook 首句是否像真人会唱出口的话，而不是正确判断句。
+- 是否像真人会唱出口，有自然语流和真实停顿，而不是 AI 写作式鼓励。
 - Hook 是否能清唱，且标题是否绑定主旋律。
 - 编曲是否只有 2-3 个核心声音武器，并且有一个可记忆声音指纹。
 - 情绪是否单一强烈。
 - Verse 是否有具体场景、物件或动作。
 - Verse 画面是否能直接拍成短视频。
+- 每个核心段落是否有具体动作、物件、身体反应或没说出口的话。
+- 是否避免模板化治愈、文案腔、假诗意和空泛升华。
 - `Style of Music` 是否前置了曲风、情绪、人声、节奏引擎、Hook 武器和手机外放清晰度。
 - `Exclude` 是否不超过 8 项，且没有排除正文正向元素。
 - 是否只保留最终 `suno.md` 固定字段，且可直接复制到 Suno。

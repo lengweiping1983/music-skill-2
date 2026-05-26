@@ -15,6 +15,7 @@
 3. 前 8 秒哪一句能被记住？
 4. 15-31 秒黄金片段能不能单独成立？
 5. 完整歌曲是否和短视频爆点一致，不骗听众？
+6. 歌词是否已经去 AI 味：像真人会唱出口，有具体动作和真实停顿，而不是文案腔总结？
 
 ## 15项分项参考
 
@@ -64,6 +65,9 @@
 - [Suno 最终输出检查表](33-suno-final-output-checklist.md)：复制到 Suno 前的最终字段和纯净度检查。
 - [Suno v5.5 爆款编曲与写歌 Playbook](34-suno-v55-viral-arrangement-playbook.md)：v5.5 个性化功能边界、爆款编曲、旋律 Hook、中文画面和黄金片段。
 - [平台爆款神曲 Playbook](35-platform-shenqu-playbook.md)：神曲、土嗨、全民二创、舞蹈挑战和短视频卡点。
+- [国风月夜都市治愈 Playbook](36-guofeng-moon-urban-healing-playbook.md)：国风电子、月亮意象、许愿、都市夜景和轻治愈爆款。
+- [去 AI 味与真人感歌词 Playbook](37-humanized-lyrics-playbook.md)：具体动作、自然语流、反文案腔、模板化治愈修正和最终歌词审稿。
+- [去 AI 味与真人感歌词 20篇专业来源清单](humanized-lyrics-source-bank-20.md)：来源库，只用于核查资料体系。
 - [Suno 生成最佳实践 100篇资料清单](suno-best-practice-source-bank-100.md)：来源库，只用于核查资料体系。
 - [Suno v5.5 爆款编曲与写歌 50篇来源库](suno-v55-best-practice-source-bank-50.md)：来源库，只用于核查资料体系。
 - [中文歌词与结构规范](chinese-lyric-structure.md)：押韵、行长、具体画面、结构呼吸和中文发音。
@@ -73,6 +77,7 @@
 
 - 结构：`Intro` 0-3 秒声音指纹 → `Hook Preview` 3-8 秒 → `Verse` 画面 → `Pre-Chorus` 上升 → `Chorus` 爆点 → `Post-Chorus` 二级 Hook → `Bridge` 对比 → `Final Chorus` 变体升级。
 - 歌词：主歌具体，副歌短，Hook 可重复，金句 6-12 字。
+- 去 AI 味：写完歌词后删掉空泛总结、文案腔和模板化治愈，用动作、物件、身体反应或没说出口的话替代。
 - 制作：先定节奏引擎和2-3个核心声音武器；人声靠前，鼓点清楚，低频不糊，核心音色前置。
 - 风格：`Style of Music` 前半段写曲风、情绪、人声、节奏引擎、Hook 武器、手机外放清晰度。
 - 纯净：`suno.md` 不出现资料来源、Reference、评分、传播报告或解释性分析。
