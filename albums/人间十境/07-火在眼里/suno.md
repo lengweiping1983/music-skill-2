@@ -2,7 +2,7 @@
 火在眼里
 
 ### Style of Music
-Chinese viral electro rock pop, 都市燃向群唱, powerful group vocal with female lead, punchy drums, distorted synth bass, tight guitar stabs, gang chant hook, micro-repeated title hook, second hook phrase, 142 BPM, minor verse to explosive chorus lift, title phrase on melodic peak, phone-speaker clear vocal, tight low-end separation, stripped verse to full chant chorus, bridge stop-down, half-line loop outro, drop after title phrase.
+Chinese viral electro rock pop, 都市燃向群唱, powerful group vocal with female lead, female lead with gritty bright edge, punchy drums, distorted synth bass locked with kick, tight guitar stabs, guitars kept sharp and rhythmic, not wall-of-noise, gang chant hook, chantable but melodic chorus, gang vocals support the hook, never bury the female lead, micro-repeated title hook, second hook phrase, 142 BPM, minor verse to explosive chorus lift, title phrase on melodic peak, phone-speaker clear vocal, lead vocal always upfront, tight low-end separation, stripped verse to full chant chorus, bridge stop-down, half-line loop outro, drop after title phrase.
 
 ### Vocal Gender
 Group
@@ -39,16 +39,16 @@ v5.5
 [Pre-Chorus | rising tension]
 (鼓点收紧, synth bass上行, gang chant低声)
 一步 两步
-别问远方
-心口那点烫
-自己发光
+牙关咬响
+胸口那点烫
+顶着冷光
 
 [Chorus | viral hook | full mix]
 (drop on title phrase, gang chant doubles, distorted synth bass)
 火在眼里
 眼里 眼里
 我不退了
-风也别拦我
+黑夜让开
 
 火在眼里
 眼里 眼里
@@ -71,21 +71,21 @@ v5.5
 路边摊收火
 铁锅还发红
 我把明天背上
-像背一阵风
+肩膀还发痛
 
 [Pre-Chorus | sharper turn]
 (鼓点半拍停顿, lead vocal靠前)
 一步 两步
-别问结果
-心口那点烫
-够我活着
+撞过冷光
+胸口那点烫
+够我硬扛
 
 [Chorus | stronger variation]
 (drop stronger, gang chant wide, tight drums)
 火在眼里
 眼里 眼里
 我不退了
-风也别拦我
+黑夜让开
 
 火在眼里
 眼里 眼里
@@ -104,7 +104,7 @@ v5.5
 火在眼里
 眼里 眼里
 我不退了
-风也别拦我
+黑夜让开
 
 火在眼里
 眼里 眼里
@@ -114,7 +114,7 @@ v5.5
 火在眼里
 眼里 眼里
 跑到天亮前
-我就是出口
+把路撞开
 
 [Outro | loop-friendly tail]
 (只留guitar stab和gang whisper, 半句残响)
