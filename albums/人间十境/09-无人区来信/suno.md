@@ -2,7 +2,7 @@
 无人区来信
 
 ### Style of Music
-Chinese cinematic synth pop, 荒凉城市男声, close baritone male vocal, whispered intimate verse, pulsing synth and distant piano motif, wide snare, micro-repeated title hook, second hook phrase, 86 BPM, dark verse to wide emotional chorus lift, title phrase on melodic peak, phone-speaker clear vocal, tight low-end separation, sparse verse to cinematic chorus, vulnerable bridge, half-line loop outro, drop after title phrase.
+Chinese cinematic synth pop, desolate urban male vocal mood, close baritone male vocal, whispered intimate verse, pulsing synth and distant piano motif, wide snare, micro-repeated title hook, second hook phrase, 86 BPM, dark verse to wide emotional chorus lift, title phrase on melodic peak, phone-speaker clear vocal, tight low-end separation, sparse verse to cinematic chorus, vulnerable bridge, half-line loop outro, drop after title phrase.
 
 ### Vocal Gender
 Male

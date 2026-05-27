@@ -2,7 +2,7 @@
 和自己碰杯
 
 ### Style of Music
-Chinese city jazz pop, 成年人轻松和解, warm close female vocal with slight smile and grit, brushed drums, brushed groove stays tight, upright bass, clean guitar, tiny brass stab, not lounge background music, micro-repeated title hook, second hook phrase, 98 BPM, relaxed groove with chorus lift, title phrase on melodic peak, phone-speaker clear vocal, tight low-end separation, sparse verse to warm chorus, vulnerable bridge, half-line loop outro, drop after title phrase.
+Chinese city jazz pop, adult easy reconciliation mood, warm close female vocal with slight smile and grit, brushed drums, brushed groove stays tight, upright bass, clean guitar, tiny brass stab, not lounge background music, micro-repeated title hook, second hook phrase, 98 BPM, relaxed groove with chorus lift, title phrase on melodic peak, phone-speaker clear vocal, tight low-end separation, sparse verse to warm chorus, vulnerable bridge, half-line loop outro, drop after title phrase.
 
 ### Vocal Gender
 Female

@@ -2,7 +2,7 @@
 火在眼里
 
 ### Style of Music
-Chinese viral electro rock pop, 都市夜跑逆袭群唱, powerful female lead with gang chant, punchy drums, distorted synth bass and tight guitar stabs, guitars rhythmic and percussive, not sustained heavy wall, gang chant supports the hook, never overpowering the female lead, chantable battle hook, clear stop points, 142 BPM, explosive chorus lift, title phrase on melodic peak, phone-speaker clear vocal, lead vocal always upfront, tight low-end separation, no wall-of-noise guitars, stripped verse to full chant chorus, bridge stop-down, half-line loop outro, drop after title phrase.
+Chinese viral electro rock pop, urban night-run comeback chant mood, powerful female lead with gang chant, punchy drums, distorted synth bass and tight guitar stabs, guitars rhythmic and percussive, not sustained heavy wall, gang chant supports the hook, never overpowering the female lead, chantable battle hook, clear stop points, 142 BPM, explosive chorus lift, title phrase on melodic peak, phone-speaker clear vocal, lead vocal always upfront, tight low-end separation, no wall-of-noise guitars, stripped verse to full chant chorus, bridge stop-down, half-line loop outro, drop after title phrase.
 
 ### Vocal Gender
 Group

@@ -2,7 +2,7 @@
 人间会亮
 
 ### Style of Music
-Chinese uplifting anthem pop, 温暖群像终章, group vocal with female lead, four-on-the-floor kick and wide clap engine, piano pulse, glowing synth pad, micro-repeated title hook, second hook phrase, 124 BPM, warm verse to big chorus lift, title phrase on melodic peak, phone-speaker clear vocal, tight low-end separation, stripped verse to full group chorus, bridge stop-down, half-line loop outro, drop after title phrase.
+Chinese uplifting anthem pop, warm ensemble finale mood, group vocal with female lead, four-on-the-floor kick and wide clap engine, piano pulse, glowing synth pad, micro-repeated title hook, second hook phrase, 124 BPM, warm verse to big chorus lift, title phrase on melodic peak, phone-speaker clear vocal, tight low-end separation, stripped verse to full group chorus, bridge stop-down, half-line loop outro, drop after title phrase.
 
 ### Vocal Gender
 Group

@@ -2,7 +2,7 @@
 月亮借我一秒
 
 ### Style of Music
-Chinese viral guofeng electro pop, 都市月夜失恋轻治愈, close airy female vocal, natural breath, soft 2-step drums, moonbell motif and guzheng pluck, micro-repeated title hook, simple singable chorus, title phrase on melodic peak, 112 BPM, minor verse to luminous chorus lift, phone-speaker clear vocal, tight low-end separation, sparse verse to glowing chorus, vulnerable bridge, half-line loop outro, drop after title phrase.
+Chinese viral guofeng electro pop, urban moonlit breakup healing mood, close airy female vocal, natural breath, soft 2-step drums, moonbell motif and guzheng pluck, minimal guofeng ornamentation, micro-repeated title hook, simple singable chorus, title phrase on melodic peak, 112 BPM, minor verse to luminous chorus lift, phone-speaker clear vocal, tight low-end separation, sparse verse to glowing chorus, vulnerable bridge, half-line loop outro, drop after title phrase.
 
 ### Vocal Gender
 Female
