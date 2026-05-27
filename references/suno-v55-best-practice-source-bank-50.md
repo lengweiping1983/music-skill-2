@@ -67,6 +67,17 @@
 49. Music Business Worldwide: short-form music industry coverage. https://www.musicbusinessworldwide.com
 50. Billboard: TikTok / short-video chart and music discovery coverage. https://www.billboard.com
 
+## 军旅归途专题交叉引用
+
+本来源库仍保持 50 篇主清单不变；`36-military-homecoming-anthem-playbook.md` 按六类复核这些来源，避免为单一题材另起一套互相冲突的规则。
+
+- Suno 官方与功能：1-10，用于确认 v5.5、Voices、Custom Models、My Taste、Reuse Prompt、Remaster、Exclude 的边界。
+- Suno prompt 实务：11-20，用于确认 Custom Mode 字段、metatags、Style、Lyrics、Exclude 的可执行写法。
+- 编曲制作：21-30，用于确认 arrangement-first、song structure、人声靠前、低频分离、混响克制和手机外放清晰度。
+- Hook / 旋律 / 歌词：31-40，用于确认 3-6 音核心动机、AA 微重复、lyric-to-melody、prosody、earworm 和可清唱副歌。
+- 短视频传播：41-50，用于确认 15-31 秒黄金片段、标题句可搜索、二创入口和平台音乐发现路径。
+- 军旅 / anthem 表达：交叉使用 21、22、26、31、34、36、40、48，并补充参考 march music、cinematic trailer music、Chinese anthem / mass song 研究和中文流行歌咬字资料；只提炼为军鼓、队列 chant、群体升维、物件化家国表达和避免空泛口号的执行规则。
+
 ## 提炼纪律
 
 - 优先吸收可执行规则：字段、标签、结构、歌词、编曲、Exclude。

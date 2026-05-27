@@ -1,0 +1,10 @@
+﻿
+opencli suno pro-generate --source-doc "D:\work_echo\music-skill-2\albums\人间十境\01-看我亮\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\01-看我亮"
+
+
+opencli suno pro-generate --source-doc "D:\work_echo\music-skill-2\albums\人间十境\02-风替我开口\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\02-风替我开口"
+
+opencli suno pro-generate --source-doc "D:\work_echo\music-skill-2\albums\人间十境\03-心跳抢拍\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\03-心跳抢拍"
+
+
+opencli suno pro-generate --source-doc "D:\work_echo\music-skill-2\albums\人间十境\04-好运开麦\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\04-好运开麦"

@@ -27,6 +27,7 @@ Reference 分层：
 - `suno-v55-execution.md`、`chinese-lyric-structure.md`、`vocal-and-genre-execution.md`：基础执行规范。
 - `34-suno-v55-viral-arrangement-playbook.md`：v5.5 爆款编曲、抓耳旋律、中文歌词、画面感和短视频黄金片段执行规则。
 - `35-platform-shenqu-playbook.md`：平台爆款神曲、土嗨、全民二创、舞蹈挑战和短视频卡点执行规则。
+- `36-military-homecoming-anthem-playbook.md`：军旅归途、边疆守护、家国与思念、国风电影电子 anthem 执行规则。
 - `source-bank-50.md`、`good-music-source-bank-30.md`、`suno-best-practice-source-bank-100.md`、`suno-v55-best-practice-source-bank-50.md`：来源库，只在需要核查资料体系时读取；日常生成优先读提炼后的分项。
 
 基础执行参考：
@@ -60,6 +61,7 @@ Reference 分层：
 - 用户强调意境、余韵、高级感：读 `21-artistic-mood-yijing.md` 和 `27-originality-and-aftertaste.md`。
 - 用户强调和声、结构、律动、演唱、制作审美：读 `22-harmony-and-chord-color.md`、`23-structure-and-breathing.md`、`24-groove-and-prosody.md`、`25-vocal-performance-emotion.md`、`26-arrangement-and-production-taste.md`。
 - 用户强调神曲、土嗨、全民二创、舞蹈挑战、短视频卡点：读 `35-platform-shenqu-playbook.md`。
+- 用户提到《钢枪与玫瑰》、军旅、边疆、归途、守护、家国与思念、界碑、哨位、风雪灯火：读 `36-military-homecoming-anthem-playbook.md`。
 
 ## 主流程
 
@@ -157,6 +159,7 @@ Reference 分层：
 - 金属、工业、摇滚：用 gang chant、重型 riff、鼓点停顿和一句战吼式 Hook，但主唱不能被合唱或乐器埋掉。
 - 国风、古风、中国风电子：传统乐器只选 1-2 个核心声音武器，其余做点缀；避免堆满乐器名。
 - 军旅、正能量、anthem：必须用真实物件和动作承载情绪，避免“我们要”“一定会”等空口号；需要队列可唱 Hook 和群体合唱入口。
+- 军旅归途、边疆 anthem、国风电影电子：先写“守护的人为什么想回家”，再写“为什么还不能回家”；核心声音只选 marching snare、国风主音色、群体 Hook 或 cinematic bass 中的 2-3 个，Hook 必须能被普通人喊出，主歌必须落到界碑、家书、电话、灯、雪、鞋底泥等可拍物件。
 
 ## Suno 输入纯净规则
 

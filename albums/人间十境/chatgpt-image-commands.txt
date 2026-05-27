@@ -1,0 +1,5 @@
+﻿
+opencli chatgpt chatgpt-image --source-doc "D:\work_echo\music-skill-2\albums\人间十境\01-看我亮\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\01-看我亮"
+
+
+opencli chatgpt chatgpt-image --source-doc "D:\work_echo\music-skill-2\albums\人间十境\04-好运开麦\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\04-好运开麦"
