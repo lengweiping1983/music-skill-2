@@ -27,14 +27,11 @@ Reference 分层：
 - `suno-v55-execution.md`、`chinese-lyric-structure.md`、`vocal-and-genre-execution.md`：基础执行规范。
 - `34-suno-v55-viral-arrangement-playbook.md`：v5.5 爆款编曲、抓耳旋律、中文歌词、画面感和短视频黄金片段执行规则。
 - `35-platform-shenqu-playbook.md`：平台爆款神曲、土嗨、全民二创、舞蹈挑战和短视频卡点执行规则。
-<<<<<<< HEAD
 - `36-military-homecoming-anthem-playbook.md`：军旅归途、边疆守护、家国与思念、国风电影电子 anthem 执行规则。
-- `source-bank-50.md`、`good-music-source-bank-30.md`、`suno-best-practice-source-bank-100.md`、`suno-v55-best-practice-source-bank-50.md`：来源库，只在需要核查资料体系时读取；日常生成优先读提炼后的分项。
-=======
 - `36-guofeng-moon-urban-healing-playbook.md`：国风电子、月亮意象、都市夜景、许愿和轻治愈爆款执行规则。
 - `37-humanized-lyrics-playbook.md`：去 AI 味、真人感歌词、自然语流、具体动作和反文案腔审稿规则。
+- `38-urban-emotion-polish-casebook.md`：城市情绪成品歌的出歌前精修、Hook 钉子、Style 保护和不过度修改规则。
 - `source-bank-50.md`、`good-music-source-bank-30.md`、`humanized-lyrics-source-bank-20.md`、`suno-best-practice-source-bank-100.md`、`suno-v55-best-practice-source-bank-50.md`：来源库，只在需要核查资料体系时读取；日常生成优先读提炼后的分项。
->>>>>>> b177740488db9617c2d8fc8d9cb9bcdef7c94214
 
 基础执行参考：
 
@@ -68,11 +65,9 @@ Reference 分层：
 - 用户强调意境、余韵、高级感：读 `21-artistic-mood-yijing.md` 和 `27-originality-and-aftertaste.md`。
 - 用户强调和声、结构、律动、演唱、制作审美：读 `22-harmony-and-chord-color.md`、`23-structure-and-breathing.md`、`24-groove-and-prosody.md`、`25-vocal-performance-emotion.md`、`26-arrangement-and-production-taste.md`。
 - 用户强调神曲、土嗨、全民二创、舞蹈挑战、短视频卡点：读 `35-platform-shenqu-playbook.md`。
-<<<<<<< HEAD
 - 用户提到《钢枪与玫瑰》、军旅、边疆、归途、守护、家国与思念、界碑、哨位、风雪灯火：读 `36-military-homecoming-anthem-playbook.md`。
-=======
 - 用户强调国风电子、月亮、许愿、治愈、都市夜景、轻伤感：读 `36-guofeng-moon-urban-healing-playbook.md`。
->>>>>>> b177740488db9617c2d8fc8d9cb9bcdef7c94214
+- 用户要求优化已成型歌曲、出歌前微调、火爆款终稿、城市情绪歌、低声 R&B、月夜失恋或夜跑燃向：读 `38-urban-emotion-polish-casebook.md`。
 
 ## 主流程
 

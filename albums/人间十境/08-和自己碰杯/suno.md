@@ -2,7 +2,7 @@
 和自己碰杯
 
 ### Style of Music
-Chinese city jazz pop, 成年人轻松和解, warm close female vocal, brushed drums, upright bass, clean guitar, tiny brass stab, micro-repeated title hook, second hook phrase, 98 BPM, relaxed groove with chorus lift, title phrase on melodic peak, phone-speaker clear vocal, tight low-end separation, sparse verse to warm chorus, vulnerable bridge, half-line loop outro, drop after title phrase.
+Chinese city jazz pop, 成年人轻松和解, warm close female vocal with slight smile and grit, brushed drums, brushed groove stays tight, upright bass, clean guitar, tiny brass stab, not lounge background music, micro-repeated title hook, second hook phrase, 98 BPM, relaxed groove with chorus lift, title phrase on melodic peak, phone-speaker clear vocal, tight low-end separation, sparse verse to warm chorus, vulnerable bridge, half-line loop outro, drop after title phrase.
 
 ### Vocal Gender
 Female
@@ -34,7 +34,7 @@ v5.5
 电梯到七楼
 我没急着走
 镜子里的我
-今天也算好
+眼妆有点掉
 
 [Pre-Chorus | rising tension]
 (brushed drums轻推, upright bass上行)
@@ -48,7 +48,7 @@ v5.5
 和自己碰杯
 碰杯 碰杯
 今晚不追悔
-风慢慢吹
+我也算珍贵
 
 和自己碰杯
 碰杯 碰杯
@@ -59,8 +59,8 @@ v5.5
 (女声轻声, guitar answer)
 今晚不追悔
 不追悔
-和自己碰杯
-也很美
+没人来敬我
+我自己举杯
 
 [Verse 2 | deeper scene]
 旧外套口袋
@@ -77,15 +77,15 @@ v5.5
 (人声靠前, 鼓刷停一拍)
 不是都忘掉
 只是少打扰
-我把自己请回
-今晚怀抱
+我把椅子拉近
+坐回灯下
 
 [Chorus | stronger variation]
 (drop stronger, upright bass bounce, soft brass)
 和自己碰杯
 碰杯 碰杯
 今晚不追悔
-风慢慢吹
+我也算珍贵
 
 和自己碰杯
 碰杯 碰杯
@@ -104,7 +104,7 @@ v5.5
 和自己碰杯
 碰杯 碰杯
 今晚不追悔
-风慢慢吹
+我也算珍贵
 
 和自己碰杯
 碰杯 碰杯
@@ -114,12 +114,13 @@ v5.5
 和自己碰杯
 碰杯 碰杯
 明天来之前
-先抱我一回
+把杯子放回
 
 [Outro | loop-friendly tail]
 (只留clean guitar和杯沿声, 女声半句残响)
 和自己碰杯
 碰杯
+明天再说
 
 ### Exclude
 long intro, buried vocals, muddy bass, weak hook, lounge cliché, excessive reverb, cluttered arrangement, generic lyrics
