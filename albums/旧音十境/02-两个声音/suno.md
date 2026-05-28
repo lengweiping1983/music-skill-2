@@ -1,8 +1,8 @@
 ## Title
-一口钟有两个声音
+两个声音
 
 ### Style of Music
-Chinese ancient bronze bell ambient vocal, bianzhong chime lead, guqin low drone, xiao breath, soft woodblock pulse, bronze side-strike resonance sound logo, restrained female vocal, 70 BPM, minor pentatonic color, close upfront vocal, clear melodic chorus, phone-speaker clear vocal, short sacred reverb tail, stripped verse to solemn chorus lift.
+Chinese traditional ambient, guqin lead, silk string harmonics, bianzhong bronze side-strike accents, temple bell, museum silence, close dry breathy ancient female vocal, realistic bronze resonance, subtle bronze dust particles falling, minimal arrangement, ancient artifact documentary feeling, 70 BPM, D minor pentatonic, no drums, meditative and reverent. Clear melodic chorus, cinematic vocal lift, strong emotional hook despite no drums.
 
 ### Vocal Gender
 Female
@@ -24,10 +24,10 @@ v5.5
 一口钟有两个声音
 一个给你
 一个给从前
-(whispered double, bronze resonance tail)
+(whispered double, guqin harmonic, bronze resonance tail)
 
 [Chorus | viral hook | full mix | 8-15s]
-(controlled vocal lift, bianzhong chime lead, soft woodblock pulse)
+(controlled vocal lift, guqin lead, ambient strings, bianzhong accents, wide reverb)
 一口钟有两个声音
 一个给你
 一个给从前
@@ -37,14 +37,14 @@ v5.5
 侧面敲醒从前
 
 [Post-Chorus | short echo]
-(layered whisper, guqin low drone)
+(layered whisper, guqin only, bronze tail, no drums)
 一声 一边
 一边 一年
 等 等 等你听
 一个给从前
 
 [Verse 1 | museum night | visual scene]
-(close female vocal, sparse chime, dry room)
+(close female vocal, guqin, sparse bronze accent, dry room)
 凌晨两点
 展厅灯剩一盏
 我戴上白手套
@@ -70,7 +70,7 @@ v5.5
 有人还在等
 
 [Chorus | full mix | emotional peak]
-(clear melodic chorus, bianzhong lead, wider harmony, woodblock pulse)
+(controlled belt, emotionally lifted, guqin lead, ambient strings, bianzhong accents, wide reverb)
 一口钟有两个声音
 一个给你
 一个给从前
@@ -82,7 +82,7 @@ v5.5
 一声落回人间
 
 [Post-Chorus | chant variation]
-(all voices soft, bronze tail, sudden pauses)
+(all voices soft, guqin harmonics, bronze tail, sudden pauses)
 一声 一边
 一边 一年
 别敲太重
@@ -114,7 +114,7 @@ v5.5
 没人听
 
 [Chorus | stronger variation]
-(controlled high vocal, bianzhong chime lead, xiao harmony, guqin low drone)
+(controlled belt, wider harmony layers, rising guqin tremolo, bianzhong accents, ambient strings, no drums)
 一口钟有两个声音
 一个给你
 一个给从前
@@ -146,7 +146,7 @@ v5.5
 敲对地方
 
 [Final Chorus | solemn emotional climax]
-(restrained but powerful, wide harmony layers, bianzhong resonance, temple room tail)
+(controlled high vocal, restrained but powerful, guqin lead, ambient swell, bianzhong bronze tail, temple bell, wide harmony layers, no drums)
 记住了
 一口钟有两个声音
 一个给你
@@ -155,8 +155,8 @@ v5.5
 青铜还没睡
 正面敲醒今天
 侧面敲醒从前
-一个叫我们别忘
-一个说他还在
+一个落回手心
+一个还在钟里
 一声留给你
 一声还给从前
 (highest note, bronze tail, pause)
@@ -169,4 +169,4 @@ v5.5
 (room silence)
 
 ### Exclude
-trap beats, EDM drop, rock guitars, cluttered arrangement, buried vocals, excessive reverb, generic ancient lyrics, bright dance pop
+drums, fantasy soundtrack, ethereal choir wash, cinematic trailer drums, bright pop, buried vocals, excessive reverb, tourist promo music
