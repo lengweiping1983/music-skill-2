@@ -21,6 +21,14 @@
 - 编曲使用低频钢琴、稀疏指弹吉他、极轻鼓刷和房间底噪；不要让鼓点、明亮合成器或大副歌把痛感冲淡。
 - Exclude 必须保护低速伤感方向，优先排除 `upbeat pop`、`dance beat`、`bright happy chorus`、`fast tempo`。
 
+## 遗憾舍不得模式
+
+- 当用户要求遗憾、舍不得、挣扎、卑微、脆弱、敏感，或反馈声音不如上一首、有点硬、不够打动人、不够脆弱敏感时，优先启用本模式。
+- 人声优先 `fragile low baritone male vocal`、`sensitive trembling delivery`、`humble restrained tone`、`intimate almost spoken-sung verse`。
+- 副歌约束为 `chorus stays low, slow, and fragile`，避免普通抒情大副歌或明亮流行抬升。
+- 情绪重点不是哭喊和复合请求，而是“差一点成真”“不敢承认结束”“身体不敢动作”。
+- 编曲空间要收近，优先贴耳人声、车厢/房间暗底噪、稀疏钢琴和低频脉冲，让脆弱感在近处发生。
+
 ## 歌词执行
 
 - Verse 每段至少有一个物件和一个动作：例如“电梯停在七楼”“旧耳机漏一格电”“消息框亮了又黑”。
@@ -29,6 +37,10 @@
 - 避免标题概念直接入词，例如不要写 `我得了回声症` 这种诊断式表达；用动作和声音让听众自己听出标题。
 - Hook 优先写“生活声响 + 误认反应”，例如 `门锁一响 / 我就以为是你`，比解释情绪更容易打动人。
 - 副歌可以直白、重复、低姿态，但不能照抄参考歌的哀求句式或核心表达。
+- 遗憾舍不得型 Hook 可以写“核心物件 + 卑微等待”，例如 `回程无你 / 我还留着旁边的座`。
+- 低姿态句可以使用 `像你只是迟到 / 不是不要我了` 这类自我欺骗式表达，但不能进入复合请求或照抄哀求。
+- Bridge 优先放遗憾真相，例如 `我们差一点成真`，让听众明白主角舍不得的不是物件，而是差一点发生的未来。
+- Final Chorus 必须有身体化动作崩溃点，例如不敢往前坐、没敢起身、手停住、把名字咽回去。
 - Post-Chorus 可用短词或半句残响，但必须服务主 Hook。
 - Outro 留一个可听见的动作或声音，不解释结局。
 
@@ -52,7 +64,7 @@
 Style 可加入：
 
 ```text
-Chinese slow melancholic pop ballad, low baritone male vocal, intimate almost whispered verse, slow 72 BPM, sparse low piano and fingerpicked guitar, very soft brushed drums, long vocal breaths, trembling tail notes, chorus stays slow and heavy, restrained harmony only in final chorus, minor key, close dry vocal, dark room ambience, phone-speaker clear vocal, upfront vocal mix, minimal reverb, no bright pop lift.
+Chinese slow melancholic pop ballad, fragile low baritone male vocal, sensitive trembling delivery, humble restrained tone, intimate almost spoken-sung verse, slow 72 BPM, sparse low piano and fingerpicked guitar, very soft brushed drums, long vocal breaths, trembling tail notes, chorus stays low, slow, and fragile, restrained harmony only in final chorus, minor key, close dry vocal, dark room ambience, phone-speaker clear vocal, upfront vocal mix, minimal reverb, no bright pop lift.
 ```
 
 Lyrics 标签可用：
@@ -64,6 +76,32 @@ Lyrics 标签可用：
 [Hook Preview | 3-8s]
 门锁一响
 我就以为是你
+```
+
+遗憾舍不得型 Lyrics 可用：
+
+```markdown
+[Hook Preview | 3-8s]
+回程无你
+我还留着旁边的座
+
+[Chorus | low fragile hook]
+回程无你
+我还留着旁边的座
+像你只是迟到
+不是不要我了
+
+[Bridge | vulnerable truth]
+我不是舍不得
+这趟回程
+我是舍不得
+我们差一点成真
+
+[Final Chorus | lowest breaking point]
+回程无你
+我却没敢往前坐
+像我一坐过去
+就承认你不来了
 ```
 
 Exclude 可用：
@@ -80,6 +118,7 @@ upbeat pop, dance beat, bright happy chorus, fast tempo, buried vocals, muddy ba
 - Hook 是否能清唱，并且只围绕一个中心句？
 - 是否避免了直给概念句，例如 `我得了回声症`？
 - 若目标是打动人，是否使用了 68-76 BPM、低声男声、贴耳主歌和慢重副歌？
+- 若目标是遗憾舍不得，是否使用了脆弱敏感人声、卑微低姿态句、差一点成真的 Bridge 和身体化动作崩溃点？
 - 人声是否克制到释放，而不是全程满格？
 - 编曲是否只有 2-3 个核心声音武器？
 - Exclude 是否没有排除正向要求？
