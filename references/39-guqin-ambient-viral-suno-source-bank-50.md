@@ -19,11 +19,11 @@
 13. New York Qin Society, “Composition as a Form of Musical Commentary in Guqin Tradition”, 2024。要点：古琴创作可理解为对传统的评论和再书写。https://newyorkqin.com/wp-content/uploads/2024/11/Ribeiro.-Composition-as-a-Form-of-Musical-Commentary-in-Guqin-Tradition.-Nov-2024..pdf
 14. 艺术人类学《唐代琴意象中的古琴审美》。要点：幽静处、简静指法、琴心、琴德和味外疏淡是唐代琴意象的重要审美。https://www.artanthropology.com/show.aspx?cid=11&id=973
 15. 《溪山琴况》“和淡清雅”相关论文条目。要点：和、淡、清、雅可转化为克制编曲和短混响尾。https://www.xueweilunwen.com/doc/433166
-16. Wikipedia, Guqin。要点：断纹、丝弦、左手滑音和古琴历史可作为物件与声音细节参考。https://en.wikipedia.org/wiki/Guqin
-17. Wikipedia, Guqin aesthetics。要点：同音不同弦位产生不同音色，适合写“同一音的不同记忆”。https://en.wikipedia.org/wiki/Guqin_aesthetics
-18. Wikipedia, Guqin notation。要点：减字谱记录指法和位置而非单纯音高，提示歌词可写“手势”。https://en.wikipedia.org/wiki/Guqin_notation
-19. Wikipedia, Guqin tunings。要点：宫商角徵羽与调弦传统提醒不要把中国风简单写成西方大小调。https://en.wikipedia.org/wiki/Guqin_tunings
-20. ChinaAlbums, “The Chinese Pentatonic Scale”。要点：五声音阶各调式有不同情绪角色，可用于 Suno Style 的调性感描述。https://chinaalbums.com/chinese-music-pentatonic-scale
+16. 湖北省博物馆《曾侯乙编钟》。要点：1978 年出土于湖北随州曾侯乙墓，全套 65 件，三层八组悬挂，钟及架、钩上共有铭文 3755 字。https://www.hbkgy.com/p/4695.html
+17. 湖北省文化和旅游厅《曾侯乙编钟》。要点：65 件编钟、3755 字铭文、编号记事标音和乐律理论，为旧音叙事提供“声文对应”的真实基础。https://wlt.hubei.gov.cn/bmdt/ztzl/zshb/201912/t20191226_1799618.shtml
+18. 湖北省博物馆《“随州曾侯乙编钟”入选第五批中国档案文献遗产名录》。要点：曾侯乙编钟证实公元前 5 世纪中国“一钟双音”制造技术已能精确控制音分。https://m-www.hbkgy.com/p/7841.html
+19. 中新网《湖北省博物馆编钟乐团——演绎编钟古乐的时代之音》。要点：每件钟的正鼓部和侧鼓部分别可以激发一个乐音，即“一钟双音”。https://www.chinanews.com.cn/cul/2023/04-19/9992600.shtml
+20. Britannica, “Zhong”。要点：古代无舌青铜钟以木槌敲击外缘发声，曾侯乙编钟是代表性双音编钟系统。https://www.britannica.com/art/zhong
 
 ## 环境音乐、编曲、人声与混音
 
@@ -40,8 +40,8 @@
 31. BCHillMix, “Vocal EQ Cheatsheet”。要点：人声前置和歌词快速理解依赖 presence 与空气感的克制处理。https://bchillmix.com/pages/vocal-eq-cheatsheet
 32. MusicRadar, “Escape the 4-bar loop trap”。要点：尽早安排结构、每段改变能量、明确 hook 焦点。https://www.musicradar.com/tutorials/music-theory-songwriting/want-to-finally-finish-that-track-heres-how-to-escape-the-4-bar-loop-trap-and-actually-make-some-music
 33. Dean Tellone, “How to Make Ambient Music”。要点：环境音乐也需要结构、层次和声音发展。https://deantellone.org/how-to-make-ambient-music-a-step-by-step-guide/
-34. arXiv, “Instrumentational complexity of music genres and why simplicity sells”。要点：流行传播常与可识别、不过度复杂的编制有关。https://arxiv.org/abs/1405.5057
-35. arXiv, “The Role of Communication and Reference Songs in the Mixing Process”。要点：制作意图需要被清楚传达，参考曲和语言会影响混音决策。https://arxiv.org/abs/2309.03404
+34. 中国科学院科技论文预发布平台《基于有限元方法的曾侯乙编钟双音声学特性研究》。要点：曾侯乙编钟的 two-tone acoustic characteristic 可作为声音奇观和制作提示依据。https://www.sciengine.com/doi/pdf/3a4ea1cb04174a0d9475439c7910f9d4
+35. 极目新闻《曾侯乙编钟原件演奏会》。要点：正鼓部与侧鼓部发不同音并有对应铭文，可转化为“一个给你、一个给从前”的 Hook 隐喻。https://www.ctdsb.net/c1664_202504/2425199.html
 
 ## Suno 与 AI 音乐生成
 
