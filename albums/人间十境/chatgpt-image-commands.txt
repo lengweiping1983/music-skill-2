@@ -1,5 +1,11 @@
 ﻿
 opencli chatgpt chatgpt-image --source-doc "D:\work_echo\music-skill-2\albums\人间十境\01-看我亮\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\01-看我亮"
-
-
+opencli chatgpt chatgpt-image --source-doc "D:\work_echo\music-skill-2\albums\人间十境\02-风替我开口\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\02-风替我开口"
+opencli chatgpt chatgpt-image --source-doc "D:\work_echo\music-skill-2\albums\人间十境\03-心跳抢拍\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\03-心跳抢拍"
 opencli chatgpt chatgpt-image --source-doc "D:\work_echo\music-skill-2\albums\人间十境\04-好运开麦\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\04-好运开麦"
+opencli chatgpt chatgpt-image --source-doc "D:\work_echo\music-skill-2\albums\人间十境\05-月亮借我一秒\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\05-月亮借我一秒"
+opencli chatgpt chatgpt-image --source-doc "D:\work_echo\music-skill-2\albums\人间十境\06-别怕醒着\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\06-别怕醒着"
+opencli chatgpt chatgpt-image --source-doc "D:\work_echo\music-skill-2\albums\人间十境\07-火在眼里\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\07-火在眼里"
+opencli chatgpt chatgpt-image --source-doc "D:\work_echo\music-skill-2\albums\人间十境\08-和自己碰杯\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\08-和自己碰杯"
+opencli chatgpt chatgpt-image --source-doc "D:\work_echo\music-skill-2\albums\人间十境\09-无人区来信\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\09-无人区来信"
+opencli chatgpt chatgpt-image --source-doc "D:\work_echo\music-skill-2\albums\人间十境\10-人间会亮\suno.md" --dir "D:\work_echo\music-skill-2\albums\人间十境\10-人间会亮"

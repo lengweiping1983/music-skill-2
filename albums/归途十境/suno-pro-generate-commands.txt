@@ -1,3 +1,4 @@
 ﻿
 opencli suno pro-generate --source-doc "D:\work_echo\music-skill-2\albums\归途十境\01-钢枪与玫瑰\suno.md" --dir "D:\work_echo\music-skill-2\albums\归途十境\01-钢枪与玫瑰"
 opencli suno pro-generate --source-doc "D:\work_echo\music-skill-2\albums\归途十境\02-界碑开花\suno.md" --dir "D:\work_echo\music-skill-2\albums\归途十境\02-界碑开花"
+opencli suno pro-generate --source-doc "D:\work_echo\music-skill-2\albums\归途十境\03-白雪与红线\suno.md" --dir "D:\work_echo\music-skill-2\albums\归途十境\03-白雪与红线"

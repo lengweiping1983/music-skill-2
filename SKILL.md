@@ -31,6 +31,7 @@ Reference 分层：
 - `36-guofeng-moon-urban-healing-playbook.md`：国风电子、月亮意象、都市夜景、许愿和轻治愈爆款执行规则。
 - `37-humanized-lyrics-playbook.md`：去 AI 味、真人感歌词、自然语流、具体动作和反文案腔审稿规则。
 - `38-urban-emotion-polish-casebook.md`：城市情绪成品歌的出歌前精修、Hook 钉子、Style 保护和不过度修改规则。
+- `39-guqin-ambient-viral-suno-playbook.md`：古琴、旧物修复、时间叙事、中国传统氛围人声、旧音专辑和 Suno v5.5 克制爆款执行规则。
 - `source-bank-50.md`、`good-music-source-bank-30.md`、`humanized-lyrics-source-bank-20.md`、`suno-best-practice-source-bank-100.md`、`suno-v55-best-practice-source-bank-50.md`：来源库，只在需要核查资料体系时读取；日常生成优先读提炼后的分项。
 
 基础执行参考：
@@ -68,6 +69,7 @@ Reference 分层：
 - 用户提到《钢枪与玫瑰》、军旅、边疆、归途、守护、家国与思念、界碑、哨位、风雪灯火：读 `36-military-homecoming-anthem-playbook.md`。
 - 用户强调国风电子、月亮、许愿、治愈、都市夜景、轻伤感：读 `36-guofeng-moon-urban-healing-playbook.md`。
 - 用户要求优化已成型歌曲、出歌前微调、火爆款终稿、城市情绪歌、低声 R&B、月夜失恋或夜跑燃向：读 `38-urban-emotion-polish-casebook.md`。
+- 用户提到古琴、断纹、旧音、旧物修复、非遗、庙宇、灰尘、漆、碑、纸、旧器物、传统氛围人声，或要求在《旧音十境》气质下继续写歌：读 `39-guqin-ambient-viral-suno-playbook.md`。
 
 ## 主流程
 
