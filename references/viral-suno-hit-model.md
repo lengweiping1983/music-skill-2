@@ -69,6 +69,8 @@
 - [国风月夜都市治愈 Playbook](36-guofeng-moon-urban-healing-playbook.md)：国风电子、月亮意象、许愿、都市夜景和轻治愈爆款。
 - [去 AI 味与真人感歌词 Playbook](37-humanized-lyrics-playbook.md)：具体动作、自然语流、反文案腔、模板化治愈修正和最终歌词审稿。
 - [去 AI 味与真人感歌词 20篇专业来源清单](humanized-lyrics-source-bank-20.md)：来源库，只用于核查资料体系。
+- [忧郁华语情歌 Suno Playbook](40-melancholy-cn-ballad-playbook.md)：忧郁、伤感、克制男声、现代城市物件、回声感和中国听众情绪。
+- [忧郁华语情歌与 Suno 制作 50 篇来源库](40-melancholy-cn-ballad-source-bank-50.md)：来源库，只用于核查资料体系。
 - [古琴旧物氛围人声 Suno 爆款 Playbook](39-guqin-ambient-viral-suno-playbook.md)：古琴、旧物修复、时间叙事、克制氛围人声和旧音专辑续写。
 - [古琴旧物氛围人声与 Suno 制作 50 条资料库](39-guqin-ambient-viral-suno-source-bank-50.md)：来源库，只用于核查资料体系。
 - [Suno 生成最佳实践 100篇资料清单](suno-best-practice-source-bank-100.md)：来源库，只用于核查资料体系。
