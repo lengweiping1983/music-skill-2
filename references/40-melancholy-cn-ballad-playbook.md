@@ -29,6 +29,28 @@
 - 情绪重点不是哭喊和复合请求，而是“差一点成真”“不敢承认结束”“身体不敢动作”。
 - 编曲空间要收近，优先贴耳人声、车厢/房间暗底噪、稀疏钢琴和低频脉冲，让脆弱感在近处发生。
 
+## 暗色卧室 Alt-R&B 脆弱声线模式
+
+- 只有当用户明确要求曲风差异，且当前生成结果已经有足够伤感、遗憾、舍不得时，才启用本模式；不要因为“声音不够好”单独触发。
+- 如果用户同时反馈不伤感、没感觉、声音太稳、缺少遗憾舍不得，必须跳过本模式，优先进入“伤感优先回退模式”。
+- Style 核心使用 `Chinese dark bedroom alt-R&B breakup ballad`、`fragile close-mic male vocal`、`breathy low register`、`near-whispered verse`、`restrained falsetto cracks`、`Rhodes electric piano`、`sub-bass heartbeat`、`minimal rim clicks`、`68 BPM`。
+- 避免继续把 `sparse low piano and fingerpicked guitar` 当主配方；这会让同专辑慢情歌过于相似。
+- 主歌贴耳干声，副歌不大开，只加窄和声、气声 double、轻微失真边缘和低频脉冲。
+- 适合表达分手后劲、无法承认结束、失恋后每个普通时刻都被刺痛的情绪。
+- Alt-R&B 不等于低声含混；中文主唱必须优先写 `clear Mandarin consonants`、`lead vocal centered and upfront`、`lyric intelligibility first`。
+- 若 Suno 生成听不清，删除或减弱 `tape hiss`、`sub-bass heartbeat`、`narrow harmony` 和过度 whisper，改用 `dry close vocal`、`restrained breath not whisper`。
+- 中段情绪没出来时，用演唱动作提示补强：`voice tightens`、`breath catches`、`almost spoken but clear`、`clear consonants`。
+
+## 伤感优先回退模式
+
+- 不要为了差异化牺牲伤感。当用户明确要求伤感、忧郁、遗憾、舍不得、挣扎时，优先使用 `Chinese slow melancholic breakup ballad`。
+- Alt-R&B 只在用户明确要求曲风差异且生成结果仍有情绪时使用；若用户反馈不伤感、没感觉、声音太稳、没有遗憾舍不得，立刻回退到 slow melancholic pop ballad。
+- 清晰度提示不能压过情绪提示；避免把 `lyric intelligibility first` 放在情绪歌核心 Style 中。
+- 声音优先写 `raw fragile low male vocal`、`restrained crying edge`、`voice almost breaks on chorus`、`slight pitch trembling`、`chorus stays slow and heavy`。
+- 必要清晰度只作为辅助：`phone-speaker clear vocal`、`upfront vocal mix`，不要把人声磨成干净稳定的 R&B 唱法。
+- 当用户说“参考 01-回声症 的声音”时，优先复用它的有效声线逻辑：低、近、脆、慢、气口明显、尾音发抖、副歌慢重但不喊。
+- 中段情绪不足时，不要先换曲风；先加强表演动作提示，例如 `restrained crying edge`、`breath catches`、`voice tightens`、`half-beat silence`、`music drops out`。
+
 ## 歌词执行
 
 - Verse 每段至少有一个物件和一个动作：例如“电梯停在七楼”“旧耳机漏一格电”“消息框亮了又黑”。
@@ -65,6 +87,12 @@ Style 可加入：
 
 ```text
 Chinese slow melancholic pop ballad, fragile low baritone male vocal, sensitive trembling delivery, humble restrained tone, intimate almost spoken-sung verse, slow 72 BPM, sparse low piano and fingerpicked guitar, very soft brushed drums, long vocal breaths, trembling tail notes, chorus stays low, slow, and fragile, restrained harmony only in final chorus, minor key, close dry vocal, dark room ambience, phone-speaker clear vocal, upfront vocal mix, minimal reverb, no bright pop lift.
+```
+
+暗色卧室 Alt-R&B Style 可加入：
+
+```text
+Chinese dark bedroom alt-R&B breakup ballad, fragile close-mic male vocal, breathy low register, sensitive trembling delivery, humble restrained tone, near-whispered verse, slow 68 BPM, Rhodes electric piano, sub-bass heartbeat, minimal rim clicks, faint tape hiss, long vocal breaths, trembling tail notes, restrained falsetto cracks only in final chorus, chorus stays low, intimate, and painful, minor7 chord color, close dry vocal, vocal-forward mix, minimal reverb, no bright pop lift.
 ```
 
 Lyrics 标签可用：
@@ -110,6 +138,12 @@ Exclude 可用：
 upbeat pop, dance beat, bright happy chorus, fast tempo, buried vocals, muddy bass, overdramatic belting, cluttered arrangement
 ```
 
+暗色卧室 Alt-R&B Exclude 可用：
+
+```text
+bright pop chorus, acoustic folk ballad, dance beat, belting vocal, buried vocals, muddy bass, excessive reverb, cluttered arrangement
+```
+
 ## 自检
 
 - 是否没有复用参考歌的核心意象、哀求方式和关键词？
@@ -119,6 +153,10 @@ upbeat pop, dance beat, bright happy chorus, fast tempo, buried vocals, muddy ba
 - 是否避免了直给概念句，例如 `我得了回声症`？
 - 若目标是打动人，是否使用了 68-76 BPM、低声男声、贴耳主歌和慢重副歌？
 - 若目标是遗憾舍不得，是否使用了脆弱敏感人声、卑微低姿态句、差一点成真的 Bridge 和身体化动作崩溃点？
+- 若用户说曲风太像或声音不够好，是否改用 Alt-R&B/Rhodes/sub-bass/minimal rim clicks，而不是继续沿用钢琴吉他慢情歌主配方？
+- 若用户只是说声音不够好，但同时要求伤感、遗憾、舍不得或挣扎，是否没有误切到 Alt-R&B，而是先回到慢速低声伤感底座？
+- 若用户反馈听不清楚、声音糊、人声埋或中段情绪没出来，是否优先保护中文咬字、主唱居中靠前，并移除过度 whisper、tape hiss、sub-bass 和窄和声？
+- 若用户反馈不伤感、没感觉、声音太稳或没有遗憾舍不得，是否回退到 slow melancholic breakup ballad，并把情绪提示放在清晰度提示之前？
 - 人声是否克制到释放，而不是全程满格？
 - 编曲是否只有 2-3 个核心声音武器？
 - Exclude 是否没有排除正向要求？
