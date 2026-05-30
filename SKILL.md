@@ -34,6 +34,7 @@ Reference 分层：
 - `39-guqin-ambient-viral-suno-playbook.md`：古琴、旧物修复、时间叙事、中国传统氛围人声、旧音专辑和 Suno v5.5 克制爆款执行规则。
 - `40-melancholy-cn-ballad-playbook.md`：忧郁华语情歌、克制男声、低速低声、脆弱敏感、卑微克制、遗憾舍不得、差一点成真、慢速破防、城市旧物、回声感、伤感但不哀求的 Suno 执行规则。
 - `41-fragile-vocal-alt-rnb-suno-source-bank-30.md`：脆弱声线、暗色卧室 Alt-R&B、近距离人声和 Suno 情绪表达来源库，只用于核查资料体系。
+- `42-tearjerker-story-ballad-playbook.md`：催泪故事型华语慢歌、单一可拍事件、误会反转、旧物告别、低声克制、听哭型 Final Chorus 和 Suno v5.5 贴耳慢歌执行规则。
 - `source-bank-50.md`、`good-music-source-bank-30.md`、`humanized-lyrics-source-bank-20.md`、`suno-best-practice-source-bank-100.md`、`suno-v55-best-practice-source-bank-50.md`、`40-melancholy-cn-ballad-source-bank-50.md`：来源库，只在需要核查资料体系时读取；日常生成优先读提炼后的分项。
 
 基础执行参考：
@@ -64,6 +65,7 @@ Reference 分层：
 - 用户强调抓耳、洗脑旋律：读 `17-catchy-melody-hook.md`。
 - 用户强调押韵、顺口、中文语流：读 `18-lyric-rhyme-flow.md`。
 - 用户强调感情、破防、真实：读 `19-emotional-truth.md`。
+- 用户反馈不够打动人、需要故事感、想听哭、缺少催泪点、感动不够、故事太薄，或要求在《离心十境》里继续写更催泪的慢歌：优先读 `42-tearjerker-story-ballad-playbook.md`，并联动 `40-melancholy-cn-ballad-playbook.md`、`19-emotional-truth.md`、`25-vocal-performance-emotion.md`、`29-suno-metatags-structure-control.md`、`33-suno-final-output-checklist.md`、`37-humanized-lyrics-playbook.md`；必须使用单一可拍事件、对方留下的具体痕迹、Bridge 误会反转和 Final Chorus 身体化崩溃动作。
 - 用户要求忧郁、伤感、感动国人、克制男声、失恋后遗症、不是哀求挽留的华语情歌，或反馈不打动人、没感觉、太概念、需要声音低、速度慢、感动人、缺少遗憾、舍不得、挣扎、声音没有上一首好、太硬、不够脆弱敏感、曲风太像、声音不够好、参考上一首声音但要换风格、听不清楚、中间情绪没出来、声音糊、人声埋、不伤感、没有感觉、声音太稳、没有遗憾舍不得：读 `40-melancholy-cn-ballad-playbook.md`，并优先应用低速低声破防模式；若用户强调遗憾、舍不得、挣扎、脆弱、敏感、卑微，则优先应用遗憾舍不得模式；若用户反馈不伤感、没感觉、声音太稳或没有遗憾舍不得，则优先应用伤感优先回退模式，并把曲风差异降到次要；若用户反馈听不清楚、声音糊、人声埋或中段情绪没出来，则优先应用中文清晰度修复；只有当用户明确要求曲风差异且当前歌曲已经有足够伤感时，才应用暗色卧室 Alt-R&B 脆弱声线模式；可核查 `41-fragile-vocal-alt-rnb-suno-source-bank-30.md`；同时联动 `19-emotional-truth.md`、`22-harmony-and-chord-color.md`、`25-vocal-performance-emotion.md`、`26-arrangement-and-production-taste.md`、`31-suno-lyrics-vocal-stability.md`、`34-suno-v55-viral-arrangement-playbook.md`、`37-humanized-lyrics-playbook.md`。
 - 用户强调画面感、镜头感：读 `20-visual-imagery.md`。
 - 用户强调意境、余韵、高级感：读 `21-artistic-mood-yijing.md` 和 `27-originality-and-aftertaste.md`。
@@ -77,7 +79,7 @@ Reference 分层：
 ## 主流程
 
 1. 解析用户需求：提取主题、曲风、情绪、人声、目标场景、语言、禁忌元素。用户未指定时，默认中文人声歌曲、Suno `v5.5`、短视频传播优先。
-2. 若用户要求同一专辑下继续写歌，先做差异化定位：新歌必须有不同于已存在歌曲的标题、核心物件、主 Hook、声音指纹、Post-Chorus 口令和 Outro 尾巴；不能只替换名词复用上一首的情绪路径。
+2. 若用户要求同一专辑下继续写歌，先做差异化定位：新歌必须有不同于已存在歌曲的标题、核心物件、主 Hook、声音指纹、Post-Chorus 口令和 Outro 尾巴；不能只替换名词复用上一首的情绪路径；《离心十境》续作不得复用门锁、回声、等待、后来没有我们、回程、旁边的座等既有核心物件和情绪路径。
 3. 定位爆点：用一句话写清这首歌最适合别人拍什么视频，以及最想让听众记住哪一句。
 4. 内部生成三套 Hook 草图：每套包含 Hook 首句、声音指纹、小怪点、适配场景。只在内部比较，不把草图输出到 `suno.md`。
 5. 设计编曲爆点：先定节奏引擎、2-3 个核心声音武器、drop/停顿/chant/标题句卡点，再写完整歌词。
@@ -135,7 +137,7 @@ Reference 分层：
 - 每个核心段落至少有一句能单独当短视频字幕的 6-12 字金句。
 - 中文歌词尽量每行 4-10 字；如果为了叙事需要略长，必须仍然适合演唱和换气。
 - 每首歌必须去 AI 味：用具体动作、物件、身体反应和没说出口的话替代空泛总结，避免模板化治愈、文案腔和 AI 式正确答案。
-- 同专辑续作必须差异化：不要复用上一首的主物件、二元结构、回家承诺、群唱口令和结尾图像；新歌要有自己的“可看见的符号”。
+- 同专辑续作必须差异化：不要复用上一首的主物件、二元结构、回家承诺、群唱口令和结尾图像；新歌要有自己的“可看见的符号”；《离心十境》续作尤其避开门锁、回声、等待、后来没有我们、回程和座位意象。
 
 ## 推荐结构
 

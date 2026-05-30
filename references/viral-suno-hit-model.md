@@ -71,6 +71,8 @@
 - [去 AI 味与真人感歌词 20篇专业来源清单](humanized-lyrics-source-bank-20.md)：来源库，只用于核查资料体系。
 - [忧郁华语情歌 Suno Playbook](40-melancholy-cn-ballad-playbook.md)：忧郁、伤感、克制男声、现代城市物件、回声感和中国听众情绪。
 - [忧郁华语情歌与 Suno 制作 50 篇来源库](40-melancholy-cn-ballad-source-bank-50.md)：来源库，只用于核查资料体系。
+- [催泪故事型华语慢歌 Suno Playbook](42-tearjerker-story-ballad-playbook.md)：听哭型慢歌、单一可拍事件、旧物告别、误会反转和克制低声破防。
+- [催泪故事型华语慢歌与 Suno 制作 30 篇来源库](42-tearjerker-story-ballad-source-bank-30.md)：来源库，只用于核查资料体系。
 - [古琴旧物氛围人声 Suno 爆款 Playbook](39-guqin-ambient-viral-suno-playbook.md)：古琴、旧物修复、时间叙事、克制氛围人声和旧音专辑续写。
 - [古琴旧物氛围人声与 Suno 制作 50 条资料库](39-guqin-ambient-viral-suno-source-bank-50.md)：来源库，只用于核查资料体系。
 - [Suno 生成最佳实践 100篇资料清单](suno-best-practice-source-bank-100.md)：来源库，只用于核查资料体系。

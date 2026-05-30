@@ -2,3 +2,4 @@
 opencli suno pro-generate --source-doc "D:\work_echo\music-skill-2\albums\离心十境\01-回声症\suno.md" --dir "D:\work_echo\music-skill-2\albums\离心十境\01-回声症"
 opencli suno pro-generate --source-doc "D:\work_echo\music-skill-2\albums\离心十境\02-回程无你\suno.md" --dir "D:\work_echo\music-skill-2\albums\离心十境\02-回程无你"
 opencli suno pro-generate --source-doc "D:\work_echo\music-skill-2\albums\离心十境\03-后来没有我们\suno.md" --dir "D:\work_echo\music-skill-2\albums\离心十境\03-后来没有我们"
+opencli suno pro-generate --source-doc "D:\work_echo\music-skill-2\albums\离心十境\04-你替我关了灯\suno.md" --dir "D:\work_echo\music-skill-2\albums\离心十境\04-你替我关了灯"
